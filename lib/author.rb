@@ -3,6 +3,6 @@ class Author
 
   def initialize(name)
     @name = name
-    @post = Array.new
+    @posts = Array.new
   end
 end

@@ -5,4 +5,5 @@ class Author
     @name = name
     @posts = Array.new
   end
+
 end
